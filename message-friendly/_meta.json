@@ -1,7 +1,7 @@
 {
   "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
   "slug": "message-friendly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishedAt": 1773975528000,
   "name": "message-friendly",
   "description": "Optimizes Markdown-formatted messages for IM platforms",
